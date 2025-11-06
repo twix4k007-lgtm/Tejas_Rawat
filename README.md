@@ -5,8 +5,8 @@
 
 <h3 align="center">Hi, I'm Tejas 👋🏻</h3>
 <p align="center">
-  <a href="https://github.com/yourname?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open-blue?style=flat-square"></a>
-  <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square"></a>
+  <a href="https://github.com/twix4k007-lgtm?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open-blue?style=flat-square"></a>
+  <a href="twix4k007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square"></a>
 </p>
 
 - 🔭 I’m working on: Projects
