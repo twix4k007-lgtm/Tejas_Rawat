@@ -15,5 +15,5 @@
 
 <!-- Fun gif (keep small) -->
 <p align="center">
-  <img src="[assets/hello.gif](https://media1.tenor.com/m/KLwJcnMaxkcAAAAd/saitama-opm.gif)" width="300" alt="waving hand animation">
+  <img src="https://media1.tenor.com/m/KLwJcnMaxkcAAAAd/saitama-opm.gif" width="300" alt="waving hand animation">
 </p>
